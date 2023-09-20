@@ -1,0 +1,5 @@
+/target/
+/questdb-embedded-demo.iml
+/.idea/
+/data_dir/*
+!data_dir/.gitkeep
