@@ -29,8 +29,8 @@ public class QueryRunner {
                         record.getFloat(4),
                         record.getDouble(5),
                         record.getDate(6),
-                        record.getSym(7),
-                        record.getStr(8),
+                        record.getSymA(7),
+                        record.getStrA(8),
                         record.getBool(9),
                         record.getGeoLong(10)
                         );

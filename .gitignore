@@ -3,3 +3,4 @@
 /.idea/
 /data_dir/*
 !data_dir/.gitkeep
+!data_dir/db/.gitkeep

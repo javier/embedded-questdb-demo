@@ -4,7 +4,7 @@ Demo project for QuestDB embebbed basic behaviour using JAVA. The project is hea
 
 # Executing
 
-The project was build with Java11 and Maven. On start it will use the local `data_dir` directory to create the database
+The project was build with Java11 and Maven. On start it will use the local `data_dir/db` directory to create the database
 contents.
 
 Execute via
